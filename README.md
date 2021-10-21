@@ -47,7 +47,3 @@ Features planned for future released include:
     - **go build olevba_web.go**
     - **./olevba_web** (Linux/Mac) or **.\olevba_web.exe** (Windows Powershell)
     - Open **http://localhost:8080/** in your web browser.
-
-
-### Known Bugs
-- Page reload required to upload additional samples.
