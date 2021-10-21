@@ -1,0 +1,28 @@
+.sample-file-drop-area {
+        border-color: #00b8ff87 !important;
+        border: dotted;
+        height: 10em;
+        background-color: #0000ff24;
+}
+
+.button-spacing {
+    margin: 0.26em;
+    overflow: hidden;
+}
+
+.analysis-results {
+        margin-top: 2em;
+        height: 40em;
+        width: 50%;
+}
+
+.analysis-results-right {
+    margin-top: 2em;
+    height: 40em;
+    width: 30%;
+    float: right !important;
+}
+
+#codeReview {
+    margin-top: 52em;
+}
