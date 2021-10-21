@@ -46,6 +46,7 @@ Features planned for future released include:
     - **cd olevba-web-analysis**
     - **go build olevba_web.go**
     - **./olevba(.exe)**
+    - Open **http://localhost:8080/** in your web browser.
 
 
 ### Known Bugs
