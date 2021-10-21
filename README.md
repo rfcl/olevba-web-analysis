@@ -38,7 +38,7 @@ Features planned for future released include:
 
 ### Setup Instructions
 - Install **Golang** and **Python** if required, as well as **pip** package installer for Python.
-- Install **oletools** using the instructions provided by **decalage2** (https://github.com/decalage2/oletools)
+- Install **oletools** using the instructions provided by **@decalage2** (https://github.com/decalage2/oletools)
   - On Linux/Mac: **sudo -H pip install -U oletools**
   - On Windows: **pip install -U oletools**
 - Download project, build, and run (ensure that you are able to bind to and access port 8080 on localhost):
