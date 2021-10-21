@@ -45,7 +45,7 @@ Features planned for future released include:
     - **git clone https://github.com/rfcl/olevba-web-analysis.git**
     - **cd olevba-web-analysis**
     - **go build olevba_web.go**
-    - **./olevba(.exe)**
+    - **./olevba_web** (Linux/Mac) or **.\olevba_web.exe** (Windows Powershell)
     - Open **http://localhost:8080/** in your web browser.
 
 
