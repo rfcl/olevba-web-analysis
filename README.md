@@ -14,10 +14,11 @@ At present, the following features are implemented:
   - **Word:** Word 97-2003 (.doc, .dot), Word 2007+ (.docm, .dotm)
   - **Excel:** Excel 97-2003 (.xls), Excel 2007+ (.xlsm, .xlsb) 
   - **PowerPoint:** PowerPoint 97-2003 (.ppt), PowerPoint 2007+ (.pptm, .ppsm) 
-  - **Other** 
-  -  Word/PowerPoint 2007+ XML (aka Flat OPC) Word 2003 XML (.xml) Word/Excel Single File Web Page / MHTML (.mht) Publisher (.pub) 
-  - SYLK/SLK files (.slk) 
-  - Text file containing VBA or VBScript source code.
+  - **Other:** 
+    - Word/PowerPoint 2007+ XML (aka Flat OPC) Word 2003 XML (.xml) Word/Excel Single File Web Page / MHTML (.mht) Publisher (.pub) 
+    - SYLK/SLK files (.slk) 
+    - Text file containing VBA or VBScript source code.
+
 
 ## Future Features
 Features planned for future released include:
@@ -26,6 +27,7 @@ Features planned for future released include:
 - Integration with VirusTotal, AlienVault, Hatching Triage, etc.
 - Document visual preview.
 - Syntax highlight and fixes to formatting in Code Review section.
+
 
 ## Installation
 
@@ -44,6 +46,7 @@ Features planned for future released include:
     - **cd olevba-web-analysis**
     - **go build olevba_web.go**
     - **./olevba(.exe)**
+
 
 ### Known Bugs
 - Page reload required to upload additional samples.
