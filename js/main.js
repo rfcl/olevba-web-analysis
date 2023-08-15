@@ -41,7 +41,12 @@ function showAnalysis(sampleResults) {
             { "data": "keyword" },
             { "data": "type" }
         ],
-        "pageLength": 17
+        "pageLength": 17,
+        "createdRow": function( row, data, dataIndex){
+            if( data[2] ==  `Suspicious`){
+                $(row).addClass('indicators_suspicious_red');
+            }
+        }
         });
 
     for (macro_id in sampleResults['macros']) {
